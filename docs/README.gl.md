@@ -159,6 +159,34 @@ O paquete declárase como axente Gaia en `gaia-agent.yaml`:
 
 Se Gaia instancia `StoryTellerAgent()` sen argumentos, define `LEMONADE_BASE_URL` (e `LEMONADE_API_KEY` se fai falta) no contorno antes de lanzar Gaia. `AgentConfig` non expón `api_key`; o cliente Lemonade de Gaia le `LEMONADE_API_KEY` do contorno.
 
+## Exemplos
+
+Contos de mostra xerados polo axente (véxase [`examples/`](../examples/)). Os textos seguintes son **traducións ao galego**; os [orixinais](../examples/) foron escritos en **castelán**.
+
+### [O Pequeno Dragón Matemáticas e o Erro Máxico](../examples/EL_Pequeño_Dragon_matematicas_y_el_error_magico.md)
+
+Había unha vez un dragónciño moi especial chamado Matemáticas. Aínda que era un dragón que podía lanzar chispas brillantes, ¡era tan pequerrechíño que cabía perfectamente dentro dunha cunca de té! A súa misión máis importante no Reino dos Números era coidar de que todas as sumas e restas estivesen ben postas para que nada se desordenase no mundo máxico.
+
+Un día, ocorreu algo moi estraño: ¡houbo un gran erro na montaña dos cálculos! Os números saltaran dun lado a outro como se estivesen xogando ao escondite. O número 3 estaba onde debía estar o 8, e as mazás do mercado estaban contando dobre por equivocación. Todo era un lío total.
+
+Matemáticas soubo que tiña que actuar rápido. Púxose a súa pequena mochila de explorador e saíu voando con moita valentía. Ao principio, custáballe moito traballo mover as cifras grandes porque eran pesadas, pero el non se rendeu nin un segundo. «¡Con esforzo e paciencia, todo se pode arranxar!», dicía mentres voaba de aquí para alá.
+
+Acomodou cada cifra con moito coidado, usando as súas aliñas para equilibrar os números e o seu corazón cheo de bondade para axudar a todos os habitantes do reino. Despois de traballar durante toda a tarde, ¡todo volveu estar no seu sitio! As contas eran perfectas outra vez e os nenos xa podían contar os seus xoguetes sen confundirse.
+
+O pequeno dragón Matemáticas regresou á súa casa moi canso pero moi feliz. Demostrara que non importa o pequeno que sexas: se te esforzas e axudas aos demais, podes lograr cousas marabillosas.
+
+### [O Regalo de Neve e Corazón](../examples/El%20Regalo%20de%20nieve%20y%20corazon.md)
+
+Había unha vez unha mamá moi especial que vivía nun castelo feito de flores de cores. Ela tiña un corazón cheo de amor e sempre quería ver sorrir á súa familia coa maior alegría posible. Un día, viu que o seu pequeno fillo estaba un pouco triste porque desexaba ter un amigo xigante para xogar no xardín durante as noites de inverno.
+
+A mamá decidiu usar a súa maxia secreta para axudalo. Foi ao recuncho máis fresco do seu patio máxico e plantou unha semente brillante que relucía como un diamante baixo a lúa. Durante varios días, regou a planta con auga de orballo e murmurulle palabras doces ao oído, dándolle moita forza e cariño.
+
+¡De pronto, ocorreu algo marabilloso! Da terra brotou unha figura alta e grande feita totalmente de flocos de neve brillantes e xeada máxica. Era un «Papá de Xeo» moi suave e esponxoso como unha nube fría. Aínda que era frío ao tocalo por fóra, ¡o seu sorriso era o máis cálido do mundo!
+
+Este novo amigo traía pequenos bonecos de xeo que bailaban soíños e regalaba flocos de neve que sabían a amorodo cando caían na boca do neno. O pequeno saltou de felicidade, abrazando o seu novo compañeiro feito de cristal e neve. A mamá lograra crear a alguén especial usando só a súa imaxinación e moito amor para encher a casa de alegría.
+
+Desde ese día, o «Papá de Xeo» coidaba os soños do neno cada noite, recordándolles a todos que cando hai bondade no corazón, ata o frío pode converterse nun abrazo doce e marabilloso.
+
 ## Licenza
 
 [GPL-3.0](../LICENSE)
