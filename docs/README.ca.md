@@ -159,6 +159,35 @@ El paquet es declara com a agent Gaia a `gaia-agent.yaml`:
 
 Si Gaia instancia `StoryTellerAgent()` sense arguments, defineix `LEMONADE_BASE_URL` (i `LEMONADE_API_KEY` si cal) a l'entorn abans de llançar Gaia. `AgentConfig` no exposa `api_key`; el client Lemonade de Gaia llegeix `LEMONADE_API_KEY` de l'entorn.
 
+## Exemples
+
+Contes de mostra generats per l'agent (vegeu [`examples/`](../examples/)). Els textos següents són **traduccions al català**; els [originals](../examples/) van ser escrits en **castellà**.
+
+### [El Petit Drac Matemàtiques i l'Error Màgic](../examples/EL_Pequeño_Dragon_matematicas_y_el_error_magico.md)
+
+Hi havia una vegada un dracot molt especial anomenat Matemàtiques. Tot i que era un drac que podia llançar espurnes brillants, era tan petitot que cabia perfectament dins d'una tassa de te! La seva missió més important al Regne dels Números era cuidar que totes les sumes i restes estiguessin ben posades perquè res no es desordenés al món màgic.
+
+Un dia, va passar una cosa molt estranya: hi va haver un gran error a la muntanya dels càlculs! Els números havien saltat d'un costat a l'altre com si estiguessin jugant a fet i amagar. El número 3 era on havia d'estar el 8, i les pomes del mercat es comptaven doble per equivocació. Tot era un embolic total.
+
+Matemàtiques va saber que havia d'actuar de pressa. Es va posar la seva petita motxilla d'explorador i va sortir volant amb molta valentia. Al principi, li costava molta feina moure les xifres grans perquè eren pesades, però no es va rendir ni un segon. «Amb esforç i paciència, tot es pot arreglar!», deia mentre volava d'aquí cap allà.
+
+Va acomodar cada xifra amb molt de compte, usant les seves aletes per equilibrar els números i el seu cor ple de bondat per ajudar tots els habitants del regne. Després de treballar durant tota la tarda, tot va tornar a estar al seu lloc! Els comptes eren perfectes una altra vegada i els nens ja podien comptar les seves joguines sense confondre's.
+
+El petit drac Matemàtiques va tornar a casa molt cansat però molt feliç. Havia demostrat que no importa com de petit siguis: si t'esforces i ajudes els altres, pots aconseguir coses meravelloses.
+
+### [El Regal de Neu i Cor](../examples/El%20Regalo%20de%20nieve%20y%20corazon.md)
+
+Hi havia una vegada una mama molt especial que vivia en un castell fet de flors de colors. Tenia un cor ple d'amor i sempre volia veure somriure la seva família amb la major alegria possible. Un dia, va veure que el seu fill petit estava una mica trist perquè desitjava tenir un amic gegant per jugar al jardí durant les nits d'hivern.
+
+La mama va decidir usar la seva màgia secreta per ajudar-lo. Va anar al racó més fresc del seu pati màgic i va plantar una llavor brillant que relluia com un diamant sota la lluna. Durant diversos dies, va regar la planta amb aigua de rosada i li va xiuxiuejar paraules dolces a l'orella, donant-li molta força i carinyo.
+
+De sobte, va passar una cosa meravellosa! De la terra va brollar una figura alta i gran feta totalment de flocons de neu brillants i gebre màgic. Era un «Papa de Gel» molt suau i esponjós com un núvol fred. Tot i que era fred al tacte per fora, el seu somriure era el més càlid del món!
+
+Aquest nou amic portava petits ninots de gel que ballaven sols i regalava flocons de neu que sabien a maduixa quan queien a la boca del nen. El petit va saltar d'alegria, abraçant el seu nou company fet de cristall i neu. La mama havia aconseguit crear algú especial usant només la seva imaginació i molt d'amor per omplir la casa d'alegria.
+
+
+Des d'aquell dia, el «Papa de Gel» cuidava els somnis del nen cada nit, recordant a tothom que quan hi ha bondat al cor, fins i tot el fred pot convertir-se en una abraçada dolça i meravellosa.
+
 ## Llicència
 
 [GPL-3.0](../LICENSE)
