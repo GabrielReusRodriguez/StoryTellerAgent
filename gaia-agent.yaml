@@ -1,0 +1,37 @@
+id: story-teller-agent
+name: Story Teller
+version: 0.1.0
+description: "Story Teller Agent — a GAIA agent (It can tell stories)"
+author: Gabriel Reus Rodriguez
+license: GPL-3.0
+
+category: general
+tags: [storyteller-agent]
+icon: sparkles
+tools_count: 0
+
+language: python
+min_gaia_version: "0.21.2"
+models: [Gemma-4-E4B-it-GGUF]
+
+conversation_starters:
+  - Hello! What can you do?
+  - Tell me a fun fact.
+  - What's your favourite topic?
+
+python:
+  entry_module: story_teller_agent.story_teller
+  entry_class: StoryTellerAgent
+  dependencies:
+    - "amd-gaia>=0.21.2"
+
+requirements:
+  min_memory_gb: 8
+  platforms: [win-x64, linux-x64, darwin-arm64]
+
+interfaces:
+  tui: false
+  cli: true
+  pipe: true
+  api_server: true
+  mcp_server: true
